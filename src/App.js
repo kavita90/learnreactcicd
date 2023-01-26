@@ -1,5 +1,6 @@
 
 import './App.css';
+import Sum from './Sum';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
        <p>kavita</p>
        <p> hello u here </p>
+       <Sum/>
       </header>
     </div>
   );
