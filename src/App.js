@@ -1,4 +1,5 @@
 
+import AddFeature from './AddFeature';
 import './App.css';
 import Sum from './Sum';
 
@@ -9,6 +10,7 @@ function App() {
        <p>kavita</p>
        <p> hello u here </p>
        <Sum/>
+       <AddFeature />
       </header>
     </div>
   );
