@@ -1,0 +1,28 @@
+.divStyle {
+    display: flex;
+    justify-content: center;
+    padding-top: 120px; 
+    overflow: scroll;
+   width: 50%;
+   height: 30%;
+
+}
+table{
+    border-collapse: collapse;   
+}
+
+th {
+    border: 2px solid yellow;
+    padding: 34px;
+}
+td {
+    border: 2px solid red;
+    padding: 34px;
+}
+
+.childdiv{
+background-color: yellow;
+}
+.parentdiv{
+    background-color: red !important ;
+}
